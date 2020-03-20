@@ -7,7 +7,7 @@ How to setup Project
 
 1. Run command gem install
 2. Run command rails s to start the server
-3. 
+3. Run comman gem install shutup
 4. 
 5. 
 You can watch entire series on Eduonix Website.
